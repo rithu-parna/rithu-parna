@@ -1,8 +1,6 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=220&section=header&text=Rithuparna%20A%20C&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20UI/UX%20Explorer&descAlignY=58&descSize=18" width=100%/>
-
+<h1 align="center">Hi 👋, I'm Rithuparna A C</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;Next.js+Developer;Building+Modern+Web+Applications;Passionate+About+Clean+UI+Designs" />
 
 <br/>
@@ -10,15 +8,12 @@
 </div>
 
 ---
-
-# 💫 About Me
-
-💻 Frontend Developer passionate about building scalable and responsive web applications.
-
-🚀 Specialized in React.js, Redux Toolkit, Next.js, TypeScript & Material UI.
-
-✨ I love creating modern UI designs and smooth user experiences.
-
+- 🔭 I’m currently working on **React, Redux, and Material-UI projects** 
+- 🌱 I’m currently learning **React.js, Next.js, Redux, TypeScript**
+- 👩‍💻 I’m working on **Portfolio & Real-time Dashboards & supply chain management projects** 
+- 💬 Ask me about **React, Material-UI, Redux, JS**
+- 📫 Reach me at: **rithu7025@gmail.com** -
+⚡ Fun fact: I love making clean UIs that feel great to use!
 ---
 
 # 🛠️ Tech Stack
@@ -34,12 +29,6 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rithu-parna&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithu-parna&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rithu-parna&theme=tokyonight&hide_border=true"/>
 
@@ -69,8 +58,6 @@
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=footer"/>
 
 </div>
 ```
