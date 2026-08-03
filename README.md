@@ -29,9 +29,7 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rithu-parna&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rithu-parna&theme=tokyo-night" />
 </div>
 
 ---
